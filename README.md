@@ -64,7 +64,7 @@ Sistem manajemen konten terpusat untuk layar LCD di lingkungan kampus UMY.
 - REST API untuk aplikasi display
 - Stack: Laravel · PHP · MySQL · Bootstrap
 
-🔗 [TugasAkhirProject-Admin](https://github.com/raraend/TugasAkhirProject-Admin) · [TugasAkhirProject-USER](https://github.com/raraend/TugasAkhirProject-USER)
+🔗 [TugasAkhirProject-Admin](https://github.com/Raraeva24/TugasAkhirProject-Admin) · [TugasAkhirProject-USER](https://github.com/Raraeva24/TugasAkhirProject-USER)
 
 ---
 
@@ -75,7 +75,7 @@ Aplikasi analisis dan rekomendasi hemat energi rumah tangga berbasis AI.
 - Auto-routing pertanyaan ke model yang tepat
 - Stack: Golang · HuggingFace · Groq API · HTML/CSS/JS
 
-🔗 [MSIBProject-ReCode_2](https://github.com/raraend/MSIBProject-ReCode_2)
+🔗 [MSIBProject-ReCode_2](https://github.com/Raraeva24/MSIBProject-ReCode_2)
 
 ---
 ## Kontak
