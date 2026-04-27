@@ -38,6 +38,7 @@ Diselenggarakan oleh Asosiasi Sains dan Teknologi Perguruan Tinggi Muhammadiyah 
 | Junior Web Developer | BNSP — Badan Nasional Sertifikasi Profesi | 🇮🇩 Nasional |
 | HTML and CSS | Certiport (Microsoft) | 🌐 Internasional |
 | Studi Independen — Integrasi AI dalam Pengembangan Aplikasi Backend Engineering menggunakan Golang | Kampus Merdeka · Ruangguru · 2025 | 🎓 MSIB |
+| Deployment Perangkat Lunak | T-Lab | 🇮🇩 Nasional |
 
 ---
 
