@@ -7,7 +7,7 @@
 
 ---
 
-## Tentang aku
+## Tentang Aku
 
 Suka ngulik backend, REST API, dan sistem yang rapi. Pernah bikin sistem Digital Signage buat kampus dan AI-powered energy management pakai Go + LLM. Lagi ngembangin skill dan eksplorasi hal baru.
 
